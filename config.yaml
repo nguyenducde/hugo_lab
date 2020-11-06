@@ -1,6 +1,6 @@
 baseURL: https://nguyenducde.com
 languageCode: en-us
-title: Personal website and blog
+title: Nguyễn Đức Đề Blog
 theme: hugo-refresh
 # theme: ../..
 
@@ -106,7 +106,7 @@ params:
     # this options let you specify the text of the link to the homepage
     # linkText: "Homepage"  
     # option to specify the title in the homepage
-    title: Julia The White
+    title: NGuyễn Đức Đề Blog
     # option to specify the subtitle in the homepage
     subtitle: Personal website and blog
     # option to specify image in the homepage
@@ -122,7 +122,7 @@ params:
     # option to specify your contact email in the footer
     email: 
       link: name.surname@domain.com
-      title: My Email
+      title: ducde678@gmail.com
     # option to specify your linkedin profile in the footer
     linkedin: 
       link: your_linkedin_profile
@@ -148,7 +148,7 @@ params:
     #    link: username
     #    title: Instagram
     # option to specify the copyright in the footer
-    copyright: Julia The White - 2020
+    copyright: Nguyễn Đức Đề - 2020
 
 ###################################################################
 ################## multilanguage support options ##################
