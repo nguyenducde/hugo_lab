@@ -1,7 +1,7 @@
 ---
 title: "Lab 2. Đăng ký tên miền miễn phí"
 date: 2020-11-05T09:33:11+07:00
-draft: true
+
 ---
 Câu 1: Tại sao lại phải đăng ký tên miền?
 Xây dựng và bảo vệ thương hiệu

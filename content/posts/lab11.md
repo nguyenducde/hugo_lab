@@ -1,7 +1,7 @@
 ---
 title: "Lab 11. Cấu hình Git lần đầu"
 date: 2020-11-05T09:51:58+07:00
-draft: true
+
 ---
 Tạo danh tính: tên & email => dùng để biết ai commit
 

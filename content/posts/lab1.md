@@ -1,7 +1,6 @@
 ---
 title: "Lab 1. Hiểu về DNS"
 date: 2020-11-05T09:29:19+07:00
-draft: true
 
 ---
 Câu 1: DNS là viết tắt của các chữ nào?

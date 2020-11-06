@@ -1,7 +1,7 @@
 ---
 title: "Lab 6. Tìm hiểu về các loại hosting"
 date: 2020-11-05T09:33:26+07:00
-draft: true
+
 ---
 I. Tìm hiểu về các loại hosting sau? Ưu và nhược điểm của mỗi loại?
 – Shared Hosting:

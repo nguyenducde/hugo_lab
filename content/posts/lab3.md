@@ -1,7 +1,7 @@
 ---
 title: "Lab 3. Đăng ký tên miền có phí"
 date: 2020-11-05T09:33:16+07:00
-draft: true
+
 ---
 Câu 1: Tại sao nên đăng kí tên miền có phí?
 Tên miền miễn phí chỉ sử dụng được trong một khoảng thời gian nhất định, có thể bị mất bất cứ khi nào

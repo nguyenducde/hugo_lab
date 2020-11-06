@@ -1,7 +1,7 @@
 ---
 title: "Lab 4. Hiểu về web server"
 date: 2020-11-05T09:33:19+07:00
-draft: true
+
 ---
 I. Web server là gì?
 “Web server” có thể là phần cứng hoặc phần mềm, hoặc cả hai.
