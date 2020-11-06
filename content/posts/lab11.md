@@ -8,9 +8,9 @@ Tạo danh tính: tên & email => dùng để biết ai commit
 Mục đích
 Lệnh
 Cấu hình tên và email
-$ git config --global user.name "Vo Hang"
+$ git config --global user.name "nguyenducde"
 
-$ git config --global user.email vohang78910@gmail.com
+$ git config --global user.email ducde678@gmail.com
 
 
 
