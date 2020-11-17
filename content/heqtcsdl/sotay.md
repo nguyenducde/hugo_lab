@@ -121,97 +121,193 @@ Equipment /ɪˈkwɪpmənt/: thiết bị
 
 expertise/ˌekspɜːˈtiːz/: thành thạo, tinh thông
 
+
 eyestrain: mỏi mắt
+
 Goal /ɡəʊl/: mục tiêu
+
 Gadget /ˈɡædʒɪt/: đồ phụ tùng nhỏ
+
 Implement /ˈɪmplɪment/: công cụ, phương tiện
+
 Increase /ɪnˈkriːs/: sự tăng thêm, tăng lên
+
 Install /ɪnˈstɔːl/: cài đặt
+
 Instruction /ɪnˈstrʌkʃn/: chỉ thị, chỉ dẫn
+
 Insurance /ɪnˈʃʊərəns/: bảo hiểm
+
 Integrate /ˈɪntɪɡreɪt/: hợp nhất, sáp nhập
+
 intranet/ˈɪntrənet/: mạng nội bộ
+
 Latest /ˈleɪtɪst/: mới nhất
+
 leadership/ˈliːdəʃɪp/: lãnh đạo
+
 level with someone (verb): thành thật
+
 Low /ləʊ/: yếu, chậm
+
 Maintain /meɪnˈteɪn/: duy trì
+
 Matrix /ˈmeɪtrɪks/: ma trận
+
 Monitor /ˈmɒnɪtə(r)/ : giám sát
+
 Negotiate /nɪˈɡəʊʃieɪt/: thương lượng
+
 Occur /əˈkɜː(r)/: xảy ra, xảy đến
+
 Order /ˈɔːdə(r)/: yêu cầu
+
 Oversee /ˌəʊvəˈsiː/: quan sát
+
 Prevail /prɪˈveɪl/: thịnh hành, phổ biến
+
 Process /ˈprəʊses/: quá trình, tiến triển
+
 Provide /prəˈvaɪd/: cung cấp
+
 Rapid /ˈræpɪd/: nhanh chóng
+
 Remote /rɪˈməʊt/: từ xa
+
 Replace /rɪˈpleɪs/: thay thế
+
 Research /rɪˈsɜːtʃ/: nghiên cứ
+
 Resource /rɪˈsɔːs/: nguồn
+
 Respond /rɪˈspɒnd/: phản hồi
+
 Simultaneous /ˌsɪmlˈteɪniəs/: đồng thời
+
 Solve /sɒlv/: giải quyết
+
 Substantial /səbˈstænʃl/: tính thực tế
+
 Sufficient /səˈfɪʃnt/: đủ, có khả năng
+
 Suitable /ˈsuːtəbl/: phù hợp
+
 Multi-task  –  Đa nhiệm.
+
 Priority /praɪˈɒrəti/ –  Sự ưu tiên.
+
 Productivity /ˌprɒdʌkˈtɪvəti/  –  Hiệu suất.
+
 Real-time  –  Thời gian thực.
+
 Schedule /ˈskedʒuːl/ –  Lập lịch, lịch biểu.
+
 Similar /ˈsɪmələ(r)/ –  Giống.
+
 Storage /ˈstɔːrɪdʒ/  –  Lưu trữ.
+
 Technology /tekˈnɒlədʒi/  –  Công nghệ.
+
 Tiny /ˈtaɪni/  –  Nhỏ bé.
+
 Digital /ˈdɪdʒɪtl/ –  Số, thuộc về số.
+
 Chain /tʃeɪn/ –  Chuỗi.
+
+
 Clarify /ˈklærəfaɪ/ –  Làm cho trong sáng dễ hiểu.
+
 Individual ˌɪndɪˈvɪdʒuəl/ –  Cá nhân, cá thể.
+
 Inertia /ɪˈnɜːʃə/  –  Quán tính.
-Irregularity/ɪˌreɡjəˈlærəti/  –  Sự bất thường, không theo quy tắc.
+
+Irregularity/ɪˌreɡjəˈlærəti/  –  Sự bất thường, không 
+theo quy tắc.
+
 Quality /ˈkwɒləti/  –   Chất lượng.
+
 Quantity/ˈkwɒntəti  –   Số lượng.
+
 Ribbon /ˈrɪbən/ –  Dải băng.
+
 Abacus/ˈæbəkəs/  –  Bàn tính.
+
 Allocate/ˈæləkeɪt/  –  Phân phối.
+
 Analog /ˈænəlɒɡ/ –   Tương tự.
+
 Command/kəˈmɑːnd/  –   Ra lệnh, lệnh (trong máy tính).
+
 Dependable/dɪˈpendəbl/  –  Có thể tin cậy được.
+
 Devise /dɪˈvaɪz/ –  Phát minh.
+
 Accumulator /əˈkjuːmjəleɪtə(r)/ :    Tổng
+
 Addition /əˈdɪʃn/: Phép  cộng
+
 Address /əˈdres/ : Địa chỉ
+
 Appropriate /əˈprəʊpriət/:        Thích  hợp
+
 Arithmetic /əˈrɪθmətɪk/:   Số học
+
 Capability /ˌkeɪpəˈbɪləti/ :   Khả năng
+
 Circuit /ˈsɜːkɪt/: Mạch
+
 Complex /ˈkɒmpleks/: Phức tạp
+
 Component/kəmˈpəʊnənt/ :  Thành  phần
+
 Computer /kəmˈpjuːtə(r)/ :   Máy  tính
+
 Computerize /kəmˈpjuːtəraɪz/ :     Tin  học hóa
+
 Convert  /kənˈvɜːt/: Chuyển đổi
+
 Data /ˈdeɪtə/: Dữ liệu
+
 Decision /dɪˈsɪʒn/: Quyết định
+
 Demagnetize  (v)     Khử từ hóa
+
 Device  /dɪˈvaɪs/   Thiết bị
+
 Disk  /dɪsk/: Đĩa
+
 Division /dɪˈvɪʒn/   Phép  chia
+
 Minicomputer  (n) Máy tính mini
+
 Multiplication /ˌmʌltɪplɪˈkeɪʃn/: Phép  nhân
+
 Numeric  /njuːˈmerɪkl/:    Số học, thuộc về số học
+
 Operation  (n):  Thao  tác,
+
 Output  /ˈaʊtpʊt/:    Ra,  đưa ra
+
 Perform /pəˈfɔːm/ :   Tiến hành, thi hành
+
 Process /ˈprəʊses/:    Xử lý
+
 Pulse /pʌls/:  Xung
+
 Signal  (n): Tín  hiệu
+
 Solution  /səˈluːʃn/:     Giải pháp, lời giải
+
 Store /stɔː(r)/: Lưu trữ
+
 Subtraction  /səbˈtrækʃn/:   Phép  trừ
+
 Switch  /swɪtʃ/:      Chuyển
+
 Tape   /teɪp/:     Ghi  băng, băng
+
 Terminal  /ˈtɜːmɪnl/:    Máy  trạm
+
  Transmit /trænsˈmɪt/:   Truyền
+
 Binary /ˈbaɪnəri/  –  Nhị phân, thuộc về nhị phân.
