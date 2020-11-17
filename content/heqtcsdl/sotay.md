@@ -4,62 +4,123 @@ date: 2020-11-17T17:20:23+07:00
 
 ---
 Operating system (n): hệ điều hành
+
 Multi-user (n) Đa người dùng
-Alphanumeric data: Dữ liệu chữ số, dữ liệu cấu thành các chữ cái và bất kỳ chữ số từ 0 đến 9.
+
+Alphanumeric data: Dữ liệu chữ số, dữ liệu cấu thành 
+các chữ cái và bất kỳ chữ số từ 0 đến 9.
+
 PPP: Là chữ viết tắt của “Point-to-Point Protocol”. Đây là một giao thức kết nối Internet tin cậy thông qua Modem
+
 Authority work: Công tác biên mục (tạo ra các điểm truy cập) đối với tên, tựa đề hay chủ đề; riêng đối với biên mục tên và nhan đề, quá trình này bao gồm xác định tất cả các tên hay tựa đề và liên kết các tên/tựa đề không được chọn với tên/tựa đề được chọn làm điểm truy dụng. Đôi khi quá trình này cũng bao gồm liên kết tên và tựa đề với nhau.
+
 Alphabetical catalog: Mục lục xếp theo trật tự chữ cái
+
 Broad classification: Phân loại tổng quát
+
 Cluster controller (n) Bộ điều khiển trùm
+
 Gateway /ˈɡeɪtweɪ/: Cổng kết nối Internet cho những mạng lớn
+
 OSI: Là chữ viết tắt của “Open System Interconnection”, hay còn gọi là mô hình chuẩn OSI
+
 Packet: Gói dữ liệu
+
 Source Code: Mã nguồn (của của file hay một chương trình nào đó)
+
 Port /pɔːt/: Cổng
-Cataloging: Công tác biên mục. Nếu làm trong các tổ chức phi lợi nhuận thì gọi là cataloging, nếu làm vì mục đích thương mại thì gọi là indexing
+
+Cataloging: Công tác biên mục. Nếu làm trong các tổ 
+chức phi lợi nhuận thì gọi là cataloging, nếu làm vì mục đích thương mại thì gọi là indexing
+
 Subject entry – thẻ chủ đề: công cụ truy cập thông qua chủ đề của ấn phẩm .
+
 Memory /ˈmeməri/ : bộ nhớ
+
 Microprocessor /ˌmaɪkrəʊˈprəʊsesə(r)/: bộ vi xử lý
+
 Operationˌ/ɒpəˈreɪʃn/ : thao tác
+
 Storage /ˈstɔːrɪdʒ/ : lưu trữ
+
 Chief source of information: Nguồn thông tin chính. Dùng tạo ra phần mô tả của một biểu ghi thay thế như trang bìa sách, hình nhan đề phim hoạt hình hay nhãn băng đĩa.
+
 Graphics /ˈɡræfɪks/ : đồ họa
+
 Hardware /ˈhɑːdweə(r)/: Phần cứng/ software/ˈsɒftweə(r)/: phần mềm
+
 Text /tekst/ : Văn bản chỉ bao gồm ký tự
+
 Remote Access: Truy cập từ xa qua mạng
-Union catalog: Mục lục liên hợp. Thư mục thể hiện những tài liệu ở nhiều thư viện hay kho tư
+
+Union catalog: Mục lục liên hợp. Thư mục thể hiện 
+những tài liệu ở nhiều thư viện hay kho tư
+
 Configuration /kənˌfɪɡəˈreɪʃn/: Cấu hình
+
 Protocol /ˈprəʊtəkɒl/:  Giao thức
+
 Technical /ˈteknɪkl/: Thuộc về kỹ thuật
+
 Pinpoint /ˈpɪnpɔɪnt/: Chỉ ra một cách chính xác
+
 Ferrite ring (n) Vòng nhiễm từ
+
 abbreviation/əˌbriːviˈeɪʃn/: sự tóm tắt, rút gọn
+
 Analysis /əˈnæləsɪs/: phân tích
+
 Appliance /əˈplaɪəns/: thiết bị, máy móc
+
 Application /ˌæplɪˈkeɪʃn/: ứng dụng
+
 Arise /əˈraɪz/: xuất hiện, nảy sinh
+
 Available /əˈveɪləbl/: dùng được, có hiệu lực
+
 Background /ˈbækɡraʊnd/: bối cảnh, bổ trợ
+
 Certification /ˌsɜːtɪfɪˈkeɪʃn/: giấy chứng nhận
+
 Chief/tʃiːf/ : giám đốc
+
 Common /ˈkɒmən/: thông thường,
+
 Compatible /kəmˈpætəbl/: tương thích
-consultant /kənˈsʌltənt/: cố vấn, chuyên viên tham vấn  
+
+consultant /kənˈsʌltənt/: cố vấn, chuyên viên tham 
+vấn  
+
 Convenience convenience: thuận tiện
+
 Customer /ˈkʌstəmə(r)/: khách hàng
+
 database/ˈdeɪtəbeɪs/: cơ sở dữ liệu
+
 Deal /diːl/: giao dịch
+
 Demand /dɪˈmɑːnd/: yêu cầu
+
 Detailed /ˈdiːteɪld/: chi tiết
+
 Develop /dɪˈveləp/: phát triển
+
 Drawback /ˈdrɔːbæk/: trở ngại, hạn chế
+
 Effective /ɪˈfektɪv/: có hiệu lực
+
 efficient/ɪˈfɪʃnt/: có hiệu suất cao
+
 Employ /ɪmˈplɔɪ/: thuê ai làm gì
+
 Enterprise /ˈentəpraɪz/: tập đoàn, công ty
+
 Environment /ɪnˈvaɪrənmənt/: môi trường
+
 Equipment /ɪˈkwɪpmənt/: thiết bị
+
 expertise/ˌekspɜːˈtiːz/: thành thạo, tinh thông
+
 eyestrain: mỏi mắt
 Goal /ɡəʊl/: mục tiêu
 Gadget /ˈɡædʒɪt/: đồ phụ tùng nhỏ
